@@ -204,6 +204,7 @@ nav a.active {
 #google-map {
 	height: 18em;
 	position: relative;
+	margin-top: 1em;
 }
 .bg-menu {
 	position: absolute;
