@@ -1,0 +1,8 @@
+.width-container {min-width: 56em;}
+.left-column {z-index: 90;}
+section {padding-right: 0.5em;}
+.skill-item {
+	width: 44%;
+	font-size: 90%;
+}
+.map .width-container {z-index: 40;}
